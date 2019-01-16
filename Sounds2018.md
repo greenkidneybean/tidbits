@@ -5,7 +5,17 @@ ANOTHER ONE!  So this year I've pulled together the stuff I've been listening to
 ## KATH AND I GOT MARRIED!!!
 Glorious day with a lotta dancing: [reception playlist](https://open.spotify.com/user/1236983347/playlist/3cIQWqTNfwXKIOxDJzBYHX?si=JtK_MlHsSdSwzKc2BgSBZw)
 
+<<<<<<< HEAD
 ## Kieran Hebden
+=======
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<body>Other content above
+<br>
+<iframe src="https://open.spotify.com/embed/album/3yXIkSJWpudtgF0TZuB16U" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<br>
+>>>>>>> 23a010cfe6feaa709b7e75131af7db5a457be4e2
 
 Hands-down what dominated my year, can't get enough (especially the BBC Essential Mix).
 
