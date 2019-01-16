@@ -5,17 +5,7 @@ ANOTHER ONE!  So this year I've pulled together the stuff I've been listening to
 ## KATH AND I GOT MARRIED!!!
 Glorious day with a lotta dancing: [reception playlist](https://open.spotify.com/user/1236983347/playlist/3cIQWqTNfwXKIOxDJzBYHX?si=JtK_MlHsSdSwzKc2BgSBZw)
 
-<<<<<<< HEAD
 ## Kieran Hebden
-=======
-
-<!DOCTYPE html>
-<meta charset="utf-8">
-<body>Other content above
-<br>
-<iframe src="https://open.spotify.com/embed/album/3yXIkSJWpudtgF0TZuB16U" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-<br>
->>>>>>> 23a010cfe6feaa709b7e75131af7db5a457be4e2
 
 Hands-down what dominated my year, can't get enough (especially the BBC Essential Mix).
 
@@ -37,13 +27,12 @@ Hands-down what dominated my year, can't get enough (especially the BBC Essentia
 - [Skee Mask - Compro](https://www.youtube.com/watch?v=WrxXObHUyVg)
 - [Kurt Vile - Bottle It In](https://www.youtube.com/watch?v=W57a4aM6MhE)
 - [Leon Vynehall - Nothing Ist Still](https://www.youtube.com/watch?v=hRGn-wYHJXs&t=45s)
-  - Super nice concept album, it's the story of his grandparents
+  - Super nice concept album, it's the story of his grandparents crossing the Atlantic by boat.  It's part of a triptych, the other components being a novel and art installation.
 
 ## Favorite Songs
 [Spotify playlist!](https://open.spotify.com/user/1236983347/playlist/2Lt4RATpDpvcLCLMkwbYWN?si=T7s_HPupRqiBYly33YBt9g)
 
-
 ## Looking forward to...
 - Four Tet Tour 2019
-- Kaitlyn Aurelia Smith's meditation album
+- Kaitlyn Aurelia Smith's meditation album: [Tides](https://open.spotify.com/album/3RV45YANay6vYeX0BKbGnh?si=wbfefsLVSgWH-uM66LJWHw)
 - New album from William Tyler
